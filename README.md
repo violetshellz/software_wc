@@ -1,7 +1,7 @@
 # software_wc
 BIN
 ----
-防止.exe及其相关依赖库
+放置.exe及其相关依赖库
 
 src
 ----
